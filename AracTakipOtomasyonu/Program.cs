@@ -12,6 +12,7 @@ namespace AracTakipOtomasyonu
         {
             //kodlama
             //araç takip otomasyonu kodları var
+            //
         }
     }
 }
