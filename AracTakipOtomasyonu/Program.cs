@@ -15,6 +15,7 @@ namespace AracTakipOtomasyonu
             //
             //kodlama 2.1 guncellendi
             //uygulama cekirdegi geliştirildi
+            //kodlama 2.3 geliştirildi
             //kodlama 3 
             // nav geliştirilmesi cekirdege eklendi
 
