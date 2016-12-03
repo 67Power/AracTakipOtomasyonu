@@ -13,8 +13,11 @@ namespace AracTakipOtomasyonu
             //kodlama
             //araç takip otomasyonu kodları var
             //
-            //kodlama 2
+            //kodlama 2.1 guncellendi
             //uygulama cekirdegi geliştirildi
+            //kodlama 3 
+            // nav geliştirilmesi cekirdege eklendi
+
         }
     }
 }
